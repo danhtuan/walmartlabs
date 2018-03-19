@@ -1,4 +1,5 @@
-# WALMARTLABS 2018
+# WALMARTLABS 2018 
+(Please read on PC for the best experience)
 In this tiny project, I showed two showcase for WalmartLabs using Python based on Scikit-Learn framework as belows:
 * [Predict Server Power using Linear Regression](predict_server_power.ipynb) 
 * [Predict Disk Failure using Logistic Regression](predict_disk_failure.ipynb)
